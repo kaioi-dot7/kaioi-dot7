@@ -1,233 +1,67 @@
-<div align="center">
+<h1 data-importer="text" align="center">"O oposto do amor não é o ódio, é a indiferença."</h1>
 
-# `KAIO`
+###
 
-```text
-                         ╱╲
-                    ╱╲  ╱  ╲  ╱╲
-                   ╱  ╲╱ ✦  ╲╱  ╲
-                  ╱              ╲
-                 ╱   K A I O      ╲
-                ╱__________________╲
-
-             ◼ CODE  ◼ GAME DEV  ◼ ART
-```
-
-**`PYTHON` · `C#` · `GAMEMAKER` · `BACKEND`**
-
-`⛓` `✦` `╳` `◼` `⌁` `⟡`
-
+<div data-importer="techs" align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="60" alt="notion logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
 </div>
 
----
+###
 
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════╗
-║                                              ║
-║                    K A I O                   ║
-║                                              ║
-║       developer  /  gamer  /  creator       ║
-║                                              ║
-║              "MAKE SOMETHING."              ║
-║                                              ║
-╚══════════════════════════════════════════════╝
-```
-
+<div data-importer="socials" align="center">
+  <a href="https://www.linkedin.com/in/joão-kaio-ferreira-gomes-03a885430/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/channels/@me" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
 </div>
 
-## `01` // WHO AM I
+###
 
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│  KAIO                                        │
-│                                              │
-│  ├─ backend                                  │
-│  ├─ game development                         │
-│  ├─ programming                              │
-│  ├─ technology                               │
-│  └─ creative projects                        │
-│                                              │
-└──────────────────────────────────────────────┘
-```
-
-Estudante e desenvolvedor interessado em **backend, programação e desenvolvimento de jogos**.
-
-Gosto de construir coisas, testar ideias e entender como elas funcionam por baixo do capô. Quando não estou programando, provavelmente estou mexendo com alguma coisa relacionada a games, arte, skate, anime ou streetwear.
-
----
-
-## `02` // TECH
-
-<div align="center">
-
-```text
-        ╭───────────────╮
-        │   LANGUAGES   │
-        ╰───────┬───────╯
-                │
-        ┌───────┴───────┐
-        │               │
-      PYTHON           C#
-        │               │
-        └───────┬───────┘
-                │
-             ◈ CODE ◈
-```
-
-`🐍 Python`　`#️⃣ C#`
-
-```text
-        ╭───────────────╮
-        │  DEVELOPMENT  │
-        ╰───────┬───────╯
-                │
-        ┌───────┴───────┐
-        │               │
-    GAME DEV         BACKEND
-        │               │
-    GameMaker        Systems
-```
-
-`GameMaker`　`VS Code`
-
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=Kaio&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/Kaio/Kaio/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
----
+###
 
-## `03` // GAME DEV
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kaio/Kaio/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kaio/Kaio/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kaio/Kaio/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
 
-```text
-       ┌─────────────────────────────┐
-       │                             │
-       │          GAME DEV           │
-       │                             │
-       │      ◇ mechanics            │
-       │      ◇ systems              │
-       │      ◇ programming          │
-       │      ◇ game design          │
-       │                             │
-       └─────────────────────────────┘
+###
 
-              ▲
-             ╱ ╲
-            ╱ ◇ ╲
-           ╱_____╲
-              │
-           GAME ON
-```
-
-Meu foco dentro de desenvolvimento de jogos é aprender através da prática, criando sistemas, mecânicas e protótipos.
-
-**GameMaker + C# + criatividade = `WORK IN PROGRESS`**
-
----
-
-## `04` // STYLE
-
-<div align="center">
-
-```text
-╳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╳
-
-       STREETWEAR  /  Y2K  /  GRAFFITI
-
-              ⛓  GACHIAKUTA  ⛓
-
-          SKATE  /  ANIME  /  ART
-
-╳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╳
-```
-
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
 </div>
 
-A estética que mais combina comigo mistura **streetwear, Y2K, skate, grafite, anime e cultura urbana**.
-
-Gosto principalmente da ideia de misturar o visual bruto e caótico do streetwear com tecnologia e criação digital.
-
----
-
-## `05` // CURRENTLY
-
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│  STATUS                                      │
-│                                              │
-│  [████████████████░░░░]  80%                 │
-│                                              │
-│  learning...                                 │
-│  building...                                 │
-│  experimenting...                            │
-│  breaking...                                 │
-│  fixing...                                   │
-│                                              │
-└──────────────────────────────────────────────┘
-```
-
-`01` aprender
-`02` criar
-`03` testar
-`04` errar
-`05` melhorar
-
----
-
-## `06` // SYMBOLS
-
-<div align="center">
-
-```text
-       ✦        ⛓        ✦        ⛓
-
-    ◼     ╳     ◇     ⟡     ◇     ╳     ◼
-
-       ⌁       //       ⌁       //
-
-              K A I O
-
-       ◼     ◇     ⛓     ✦     ⛓     ◇     ◼
-```
-
-</div>
-
----
-
-## `07` // GITHUB
-
-<div align="center">
-
-```text
-╭────────────────────────────────────────────╮
-│                                            │
-│                 KAIO                       │
-│                                            │
-│          github.com/kaioi-dot7             │
-│                                            │
-│        CODE  /  CREATE  /  REPEAT          │
-│                                            │
-╰────────────────────────────────────────────╯
-```
-
-[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge\&logo=github\&logoColor=ffffff)](https://github.com/kaioi-dot7)
-
-</div>
-
----
-
-<div align="center">
-
-```text
-╳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╳
-
-                    KAIO
-
-             BUILT FROM SCRATCH.
-
-╳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╳
-```
-
-</div>
-
+###
