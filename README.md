@@ -1,140 +1,233 @@
-# KAIO
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header&text=KAIO&fontColor=000000&fontSize=48&fontAlignY=40" width="100%"/>
-</p>
-
-<p align="center">
-  <strong>BACKEND • GAME DEV • CODE • STREET CULTURE</strong>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/C%23-FFFFFF?style=for-the-badge&logo=csharp&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/GameMaker-FFFFFF?style=for-the-badge&logo=gamemaker&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/VS%20Code-FFFFFF?style=for-the-badge&logo=visualstudiocode&logoColor=000000"/>
-</p>
-
----
-
-## KAIO
+# `KAIO`
 
 ```text
-╭──────────────────────────────────────────────╮
-│                                              │
-│   coding • games • art • streetwear          │
-│                                              │
-│   building things instead of just           │
-│   talking about building things.             │
-│                                              │
-╰──────────────────────────────────────────────╯
+                         ╱╲
+                    ╱╲  ╱  ╲  ╱╲
+                   ╱  ╲╱ ✦  ╲╱  ╲
+                  ╱              ╲
+                 ╱   K A I O      ╲
+                ╱__________________╲
+
+             ◼ CODE  ◼ GAME DEV  ◼ ART
 ```
 
-Sou Kaio, estudante e desenvolvedor interessado em tecnologia, programação, desenvolvimento de jogos e cultura visual.
+**`PYTHON` · `C#` · `GAMEMAKER` · `BACKEND`**
 
-Meu foco passa por **backend**, **game development** e criação de projetos próprios.
+`⛓` `✦` `╳` `◼` `⌁` `⟡`
 
-Também curto **streetwear, Y2K, skate, grafite, anime, desenho e cultura urbana**, então tento levar essa mistura de tecnologia + criatividade para o que eu faço.
-
----
-
-## / STACK
-
-**Languages**
-
-`Python` · `C#`
-
-**Game Development**
-
-`GameMaker`
-
-**Tools**
-
-`VS Code`
-
-**Interests**
-
-`Backend` · `Game Dev` · `Programming` · `Technology` · `Creative Coding`
+</div>
 
 ---
 
-## / CURRENTLY
+<div align="center">
 
 ```text
-[████████████████████] 100%
-
-learning
-building
-breaking
-fixing
-repeating
+╔══════════════════════════════════════════════╗
+║                                              ║
+║                    K A I O                   ║
+║                                              ║
+║       developer  /  gamer  /  creator       ║
+║                                              ║
+║              "MAKE SOMETHING."              ║
+║                                              ║
+╚══════════════════════════════════════════════╝
 ```
 
-Atualmente explorando novas ideias em programação, backend e desenvolvimento de jogos.
+</div>
 
-A ideia é aprender construindo projetos reais, experimentar tecnologias diferentes e transformar algumas dessas ideias em coisas que realmente funcionem.
-
----
-
-## / GAME DEV
-
-Tenho interesse especial em desenvolvimento de jogos.
+## `01` // WHO AM I
 
 ```text
-GAME DEV
-   │
-   ├── mechanics
-   ├── systems
-   ├── programming
-   ├── game design
-   └── experimentation
+┌──────────────────────────────────────────────┐
+│                                              │
+│  KAIO                                        │
+│                                              │
+│  ├─ backend                                  │
+│  ├─ game development                         │
+│  ├─ programming                              │
+│  ├─ technology                               │
+│  └─ creative projects                        │
+│                                              │
+└──────────────────────────────────────────────┘
 ```
 
-Uso principalmente **GameMaker** e **C#**, enquanto continuo explorando outras ferramentas e tecnologias.
+Estudante e desenvolvedor interessado em **backend, programação e desenvolvimento de jogos**.
+
+Gosto de construir coisas, testar ideias e entender como elas funcionam por baixo do capô. Quando não estou programando, provavelmente estou mexendo com alguma coisa relacionada a games, arte, skate, anime ou streetwear.
 
 ---
 
-## / VIBE
+## `02` // TECH
 
-<p align="center">
+<div align="center">
 
-`STREETWEAR`　`Y2K`　`GACHIAKUTA`　`SKATE`　`GRAFFITI`　`ANIME`
+```text
+        ╭───────────────╮
+        │   LANGUAGES   │
+        ╰───────┬───────╯
+                │
+        ┌───────┴───────┐
+        │               │
+      PYTHON           C#
+        │               │
+        └───────┬───────┘
+                │
+             ◈ CODE ◈
+```
 
-</p>
+`🐍 Python`　`#️⃣ C#`
 
-Minha estética mistura tecnologia com referências de cultura urbana, streetwear e arte.
+```text
+        ╭───────────────╮
+        │  DEVELOPMENT  │
+        ╰───────┬───────╯
+                │
+        ┌───────┴───────┐
+        │               │
+    GAME DEV         BACKEND
+        │               │
+    GameMaker        Systems
+```
 
-Branco como base. Preto para contraste. Visual limpo, mas com personalidade.
+`GameMaker`　`VS Code`
 
----
-
-## / ABOUT ME
-
-* 🎮 Game development
-* 💻 Backend development
-* 🐍 Python
-* #️⃣ C#
-* 🎨 GameMaker
-* 🧠 Tecnologia e programação
-* 🛹 Skate
-* 🎨 Desenho e grafite
-* 👕 Streetwear / Y2K
-* 📚 Sempre aprendendo alguma coisa nova
-
----
-
-## / CONTACT
-
-<p align="center">
-
-<a href="https://github.com/kaioi-dot7">
-  <img src="https://img.shields.io/badge/GitHub-KAIO-000000?style=for-the-badge&logo=github&logoColor=ffffff"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <sub>KAIO / 2026</sub>
-</p>
+## `03` // GAME DEV
+
+```text
+       ┌─────────────────────────────┐
+       │                             │
+       │          GAME DEV           │
+       │                             │
+       │      ◇ mechanics            │
+       │      ◇ systems              │
+       │      ◇ programming          │
+       │      ◇ game design          │
+       │                             │
+       └─────────────────────────────┘
+
+              ▲
+             ╱ ╲
+            ╱ ◇ ╲
+           ╱_____╲
+              │
+           GAME ON
+```
+
+Meu foco dentro de desenvolvimento de jogos é aprender através da prática, criando sistemas, mecânicas e protótipos.
+
+**GameMaker + C# + criatividade = `WORK IN PROGRESS`**
+
+---
+
+## `04` // STYLE
+
+<div align="center">
+
+```text
+╳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╳
+
+       STREETWEAR  /  Y2K  /  GRAFFITI
+
+              ⛓  GACHIAKUTA  ⛓
+
+          SKATE  /  ANIME  /  ART
+
+╳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╳
+```
+
+</div>
+
+A estética que mais combina comigo mistura **streetwear, Y2K, skate, grafite, anime e cultura urbana**.
+
+Gosto principalmente da ideia de misturar o visual bruto e caótico do streetwear com tecnologia e criação digital.
+
+---
+
+## `05` // CURRENTLY
+
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│  STATUS                                      │
+│                                              │
+│  [████████████████░░░░]  80%                 │
+│                                              │
+│  learning...                                 │
+│  building...                                 │
+│  experimenting...                            │
+│  breaking...                                 │
+│  fixing...                                   │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+`01` aprender
+`02` criar
+`03` testar
+`04` errar
+`05` melhorar
+
+---
+
+## `06` // SYMBOLS
+
+<div align="center">
+
+```text
+       ✦        ⛓        ✦        ⛓
+
+    ◼     ╳     ◇     ⟡     ◇     ╳     ◼
+
+       ⌁       //       ⌁       //
+
+              K A I O
+
+       ◼     ◇     ⛓     ✦     ⛓     ◇     ◼
+```
+
+</div>
+
+---
+
+## `07` // GITHUB
+
+<div align="center">
+
+```text
+╭────────────────────────────────────────────╮
+│                                            │
+│                 KAIO                       │
+│                                            │
+│          github.com/kaioi-dot7             │
+│                                            │
+│        CODE  /  CREATE  /  REPEAT          │
+│                                            │
+╰────────────────────────────────────────────╯
+```
+
+[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge\&logo=github\&logoColor=ffffff)](https://github.com/kaioi-dot7)
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+╳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╳
+
+                    KAIO
+
+             BUILT FROM SCRATCH.
+
+╳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╳
+```
+
+</div>
+
